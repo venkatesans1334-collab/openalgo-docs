@@ -82,6 +82,7 @@
 
 ## API Documentation
 
+* [Master API Reference](api-documentation/master-api-reference.md)
 * [V1](api-documentation/v1/README.md)
   * [Accounts API](api-documentation/v1/accounts-api/README.md)
     * [Ping](api-documentation/v1/accounts-api/ping.md)
